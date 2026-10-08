@@ -26,7 +26,3 @@ header{background:rgba(255,253,248,.94);backdrop-filter:blur(16px);position:stic
 .article-body h2{font-size:30px;line-height:1.2;margin-top:42px;margin-bottom:12px}
 .article-body li{font-size:17px;margin:10px 0;color:#34443e}
 .article-body .callout{font-size:16px;line-height:1.7}
-
-.article-hero{margin:28px 0 34px;border-radius:26px;overflow:hidden;border:1px solid var(--line);background:var(--paper);box-shadow:var(--shadow)}
-.article-hero img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
-@media(max-width:800px){.article-hero{margin:22px 0 26px;border-radius:18px}.article-hero img{aspect-ratio:16/9}}
